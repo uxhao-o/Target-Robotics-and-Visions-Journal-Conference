@@ -42,8 +42,7 @@
 |      |      | Q1   | Engineering Applications of Artificial Intelligence ([EAAI](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence)) | 8.0         | 684 |
 |      |      | Q1   | [Journal of Intelligent Manufacturing](https://www.springer.com/journal/10845/) | 8.3         | 189 |
 |      |      | Q1   | *International Journal of Intelligent Systems*               | 7.0        | 280 |
-| C    |      | Q2   | [Neurocomputing](https://journals.elsevier.com/neurocomputing) | 6.0        | 1465 |
-|      |      | Q2   | [Neural Computing and Applications](https://www.springer.com/journal/521/) | 6.0        | 1407                          |
+| C    |      | Q2   | [Neurocomputing](https://journals.elsevier.com/neurocomputing) | 6.0        | 1465 |                         |
 | C    |      | Q2   | [Applied Intelligence](https://www.springer.com/journal/10489/?gclid=CjwKCAjwzNOaBhAcEiwAD7Tb6AjLf5DK4hJ0x6nHR1JKioD610RG7aJGBy9W70_wYmSlrVUpauSVcRoClY0QAvD_BwE) | 5.3          | 1472                          |
 | C    |      | Q2   | Pattern Recognition Letters ([PRL](https://www.journals.elsevier.com/pattern-recognition-letters)) | 5.1        | 276 |
 | C    |      | Q1 | [Image and Vision Computing](https://www.sciencedirect.com/journal/image-and-vision-computing) | 4.7        | 155 |
@@ -52,7 +51,6 @@
 | C    |      | Q2 | [Journal of Visual Communication and Image Representation](https://www.sciencedirect.com/journal/journal-of-visual-communication-and-image-representation) | 2.6          | 226 |
 | C    |      | Q2 | [Expert Systems](https://onlinelibrary.wiley.com/journal/14680394) | 3.3         | 279 |
 | C    |      | Q2 | [The Visual Computer](https://www.springer.com/journal/371/) | 3.5         | 403 |
-| C    |      | Q2 | [Multimedia Tools and Applications](https://www.springer.com/journal/11042/) | 3.6        | 2495 |
 | C    |      | Q1 | [Multimedia Systems](https://www.springer.com/journal/530/)  | 3.9        | 165 |
 | C    |      | Q1 | [International Journal of Neural Systems](https://www.worldscientific.com/worldscinet/ijns) | 8.0        | 76 |
 | C    |      | Q3 | [Natural Computing](https://www.springer.com/journal/11047/) | 2.1        | 51 |
